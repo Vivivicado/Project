@@ -1,0 +1,5 @@
+.DS_Store
+secret.txt
+
+#Log files to be ignored
+#'*.txt' means all txt files will be ignored
